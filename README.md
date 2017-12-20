@@ -3,13 +3,13 @@ Building an app with express
 
 This app satisfies the reqirements for Node-Js-Acceleration-13 Task A.
 
-Listens on port 3301
+- Listens on port 3301
 
-Middleware for logging all requests (recommended: morgan)
+- Middleware for logging all requests (recommended: morgan)
 
-Serves static files from the /staticdirectory
+- Serves static files from the /staticdirectory
 
-Implements a 404 middleware for inexistent files
+- Implements a 404 middleware for inexistent files
 
 
 ## Dependencies
