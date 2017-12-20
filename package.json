@@ -1,0 +1,25 @@
+{
+  "name": "node-js-acceleration-13",
+  "version": "1.0.0",
+  "description": "a sample app with node and express",
+  "main": "index.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Devcrib/Node-Js-Acceleration-13.git"
+  },
+  "author": "DevCrib Node Team Members",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Devcrib/Node-Js-Acceleration-13/issues"
+  },
+  "homepage": "https://github.com/Devcrib/Node-Js-Acceleration-13#readme",
+  "dependencies": {
+    "express": "^4.16.2",
+    "morgan": "^1.9.0",
+    "path": "^0.12.7",
+    "pug": "^2.0.0-rc.4"
+  }
+}
