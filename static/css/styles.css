@@ -1,0 +1,40 @@
+body{
+	background-image:url('./blackbg.jpg');
+}
+
+img.mainImage{
+	display: block;
+	margin-right: auto;
+	margin-left: auto;
+}
+#signNames{
+	color:white;
+}
+table.signs{
+	width: 300px;
+	margin-right: auto;
+	margin-left: auto;
+	text-align: center;
+}
+.signs td a:hover {
+	color: red;
+}
+.middlediv{
+	height: 50px;
+	background-color: #d1f442;
+}
+.container a:hover {
+	opacity: 0.8;
+}
+.container a, img {
+  	margin-top:20px;
+
+}
+
+
+#footer{
+	background-color:black;
+	height:100px; width:100%;
+	text-align:center;
+	color:white;
+}
